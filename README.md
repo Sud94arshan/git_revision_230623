@@ -10,3 +10,5 @@ Want to explore gitdifftool
 Want to see if 3 commits are pushed at one go.
 
 Wants to see if 3 commits at one go how it beahaves.
+
+Wants to see 3 commits at one go.
