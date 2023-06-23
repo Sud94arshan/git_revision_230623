@@ -5,4 +5,6 @@ This is the 2nd line of change I have for u.
 
 This is the 3rd line I m seeing changes for u.
 
-Want to explore gitdifftool.
+Want to explore gitdifftool
+
+Want to see if 3 commits are pushed at one go.
