@@ -16,3 +16,6 @@ $$Merge sikh rhe hain
 ## MAi test se aya hun ..maine merge kiye bina apna merge krne wala hun.
 test
 test11
+
+##Bina add commit ke merge se purane branch me kuch save ni rhta
+##ISBAR add commit krke krenge merge
