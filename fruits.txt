@@ -1,21 +1,4 @@
-Apples 
-ooranges
-dd,js
-,,jdkjsd
-jackfruit
-blackberry
-#feature addition krte hain 
-kiwi
-banana
-#kuch aur add krte
-
-
-$$Merge sikh rhe hain
-####Merge sikhte hain
-&&&Merge sikh lena chahiye
-## MAi test se aya hun ..maine merge kiye bina apna merge krne wala hun.
-test
-test11
+Naspati
 
 ##Bina add commit ke merge se purane branch me kuch save ni rhta
 ##ISBAR add commit krke krenge merge
