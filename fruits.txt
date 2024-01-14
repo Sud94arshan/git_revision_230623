@@ -1,5 +1,8 @@
 Naspati
 
+ab naspati add ho gya h 
+avi dahi add krte hain
+
 ##Bina add commit ke merge se purane branch me kuch save ni rhta
 ##ISBAR add commit krke krenge merge
 
